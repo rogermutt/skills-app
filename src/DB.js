@@ -2,6 +2,7 @@ module.exports = [
   {"role": "React Developer", "skills": ["Software", "React", "Reactjs", "Mobx", "Javascript"]},
   {"role": "Senior React Developer", "skills": ["Software", "React", "Redux", "Flux", "Webpack"]},
   {"role": "PHP Front End", "skills": ["Software", "Sass", "Html", "Css", "Php"]},
+  {"role": "PHP Developer", "skills": ["Software", "Lambda", "Laravel", "Css", "Php"]},
   {"role": "Backend Software Engineer", "skills": ["API", "Automation", "Nodejs", "Javascript", "React"]},
   {"role": "Front End Developer", "skills": ["Css", "Sass", "React", "Html", "Git"]},
   {"role": "Full Stack Software Engineer", "skills": ["Javascript", "Nodejs", "Mongodb", "Docker", "Angular"]},
