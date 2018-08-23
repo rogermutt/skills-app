@@ -1,0 +1,21 @@
+module.exports = [
+  {"role": "React Developer", "skills": ["Software", "React", "Reactjs", "Mobx", "Javascript"]},
+  {"role": "Senior React Developer", "skills": ["Software", "React", "Redux", "Flux", "Webpack"]},
+  {"role": "PHP Front End", "skills": ["Software", "Sass", "Html", "Css", "Php"]},
+  {"role": "Backend Software Engineer", "skills": ["API", "Automation", "Nodejs", "Javascript", "React"]},
+  {"role": "Front End Developer", "skills": ["Css", "Sass", "React", "Html", "Git"]},
+  {"role": "Full Stack Software Engineer", "skills": ["Javascript", "Nodejs", "Mongodb", "Docker", "Angular"]},
+  {"role": "PHP Developer", "skills": ["Software", "Github", "Lamp", "Lambda", "Php"]},
+  {"role": "Javascript Front End", "skills": ["Software", "Sass", "Html", "Css", "Javascript"]},
+  {"role": "Full Stack", "skills": ["Software", "Nodejs", "Html", "Css", "Javascript"]},
+  {"role": "Python Developer", "skills": ["Software", "Python", "Sql", "Apache", "Django"]},
+  {"role": "Ruby Developer", "skills": ["Software", "Ruby", "Sql", "Rails", "Mysql"]},
+  {"role":"Graphic Designer", "skills": ["Photoshop", "Sketch", "Illustrator", "Design", "Fonts"]},
+  {"role":"Data Analyst", "skills": ["Sql", "Vba", "Tableau", "Powerbi", "Excel"]},
+  {"role":"UX/UI Designer", "skills": ["Ux", "Ui", "Sketch", "Design", "Balsamiq"]},
+  {"role":"Sql Developer", "skills": ["Sql", "Mysql", "Postgre", "R", "Rstudio"]},
+  {"role":"Business Analyst", "skills": ["Agile", "Scrum", "Excel", "Sql", "Vba"]},
+  {"role":"Project Manager", "skills": ["Agile", "Scrum", "Prince", "Pmi", "Xp"]},
+  {"role":"QA", "skills": ["Selenium", "Mocha", "Sahi", "Gauge", "Citrus"]},
+  {"role":"Product Manager", "skills": ["Agile", "Scrum", "Kanban", "Sketch", "Jira"]}
+  ];
