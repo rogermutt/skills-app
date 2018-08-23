@@ -1,7 +1,6 @@
 import React from 'react';
 
-export default props => {
-  return (
+export default props => (
         <nav className="navbar is-white topNav">
             <div className="container">
                 <a className="navbar-item" href="/landing">
@@ -10,4 +9,3 @@ export default props => {
             </div>
         </nav>
   );
-};
