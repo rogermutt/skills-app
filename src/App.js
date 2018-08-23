@@ -3,13 +3,13 @@ import './App.css';
 import Footer from "./Components/Footer.js";
 import Header from "./Components/Header.js";
 import Main from "/Users/Roger/skills-app/src/Components/Main.js";
-import LocaleProvider from '/Users/Roger/skills-app/src/Context.js';
+import LocalProvider from '/Users/Roger/skills-app/src/Context.js';
 import { LocalContext } from '/Users/Roger/skills-app/src/Context.js';
 
-class App extends Component {
+export default class App extends Component {
   render() {
     return (
-      <LocaleProvider>
+      <LocalProvider>
         <div className="App">
           <LocalContext.Consumer>
           {( localData ) => localData.state }
@@ -18,9 +18,7 @@ class App extends Component {
           <Main/>
           <Footer/>
         </div>
-      </LocaleProvider>
+      </LocalProvider>
     );
   }
 }
-
-export default App;
